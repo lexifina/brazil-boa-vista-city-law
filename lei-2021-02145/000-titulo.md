@@ -1,0 +1,2 @@
+# LEI Nº 2.145, DE 17 DE MAIO DE 2021 CRIA ÁREAS ESPECIAIS DE INTERESSE SOCIAL DENOMINADA AGROVILAS E CHÁCARAS, SÍTIOS ANTÔNIO TORRES, COM ÁREA DE 348,0559 HECTARES LOCALIZADA NA REGIÃO RURAL DE BOA VISTA - RR.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE BOA VISTA, faço saber que a Câmara Municipal aprovou, o Pre-feito Municipal, nos termos do § 3º do art. 50 da Lei Orgâ-nica do Munícipio de Boa Vista, sancionou tacitamente, e eu, nos termos do § 7º do art. 50 da Lei Orgânica, promul-go a seguinte LEI:
