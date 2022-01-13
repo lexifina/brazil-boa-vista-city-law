@@ -1,0 +1,2 @@
+# LEI Nº 2.189, DE 05 DE NOVEMBRO DE 2021 CRIA ÁREA ESPECIAL DE INTERESSE SOCIAL (AEIS) DENOMINADA MONTE CRISTO, LOCALI-ZADA NA REGIÃO DO MONTE CRISTO, COM ÁREA DE 23.8746 HA NESTA CIDADE DE BOA VISTA E DÁ OUTRAS PROVIDÊNCIAS.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE BOA VIS-TA, faço saber que a Câmara Municipal rejeitou o Veto, e eu, escoado o prazo do Prefeito do Município, nos termos do §7º do art. 50 da Lei Orgânica, promulgo a seguinte LEI:
