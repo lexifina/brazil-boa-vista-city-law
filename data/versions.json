@@ -1,0 +1,175 @@
+{
+ "country": "BR-RR-BOA-VISTA",
+ "acts": [
+  {
+   "slug": "lei-organica",
+   "short": "LOM-Boa-Vista",
+   "title": "Lei Orgânica do Município de Boa Vista",
+   "url": "https://sapl.boavista.rr.leg.br/norma/5353",
+   "versions": [
+    {
+     "from": "1992-07-11",
+     "units": 198,
+     "source_url": "https://sapl.boavista.rr.leg.br/ta/641/text/vigencia/0,1992-07-11,1993-10-24:zu_qloXw8b03Q0FbvLHi7BabLH0/",
+     "sha256": "392c0684f0ccf09b6f73a0f685b749ec1ba38fe4a4cca5a159bf6bbf2e02b1c3"
+    },
+    {
+     "from": "1993-10-25",
+     "units": 198,
+     "source_url": "https://sapl.boavista.rr.leg.br/ta/641/text/vigencia/642,1993-10-25,1993-12-13:Hs9RZLJF8BImi0qvuWSUXDAAh2I/",
+     "sha256": "7b0a3d687eba155726dad233fd019dda81f36955f78b8ca2d1bd8a7a481edf92"
+    },
+    {
+     "from": "1993-10-25",
+     "units": 198,
+     "source_url": "https://sapl.boavista.rr.leg.br/ta/641/text/vigencia/643,1993-10-25,1993-12-13:38YNS2GvDOewU6ojyEklcJzBPTQ/",
+     "sha256": "a23f0d6c1f82a59d2eb828f3571014b7b1fed4d679b6b726595c2dd25f454f6b"
+    },
+    {
+     "from": "1993-12-14",
+     "units": 198,
+     "source_url": "https://sapl.boavista.rr.leg.br/ta/641/text/vigencia/644,1993-12-14,1994-06-06:BIrjyBo8OFS-TBbXEvbkNZqNYG0/",
+     "sha256": "018f9a33196423180f3dee66928ab90d616009f683016072386ff68a77832775"
+    },
+    {
+     "from": "1994-06-07",
+     "units": 198,
+     "source_url": "https://sapl.boavista.rr.leg.br/ta/641/text/vigencia/645,1994-06-07,2000-09-19:5RgdTThT6LMf5bJd7wGR-3uiQgY/",
+     "sha256": "8f766fbdab71a0bfeafefc15adc77cd1ed4b4c1952ff236651850d45f529908d"
+    },
+    {
+     "from": "2000-09-20",
+     "units": 198,
+     "source_url": "https://sapl.boavista.rr.leg.br/ta/641/text/vigencia/646,2000-09-20,2000-12-20:7FrtHbbUx72rgg8qilJjU6uX280/",
+     "sha256": "f5cb1816f299332ea8eebf5e0fe4d49d80e0e9ca8641b741b17f28e0576798c2"
+    },
+    {
+     "from": "2000-12-21",
+     "units": 198,
+     "source_url": "https://sapl.boavista.rr.leg.br/ta/641/text/vigencia/647,2000-12-21,2001-08-07:unSb7TdPOE9zAP-u6dVsroX8ejY/",
+     "sha256": "fc3f6e59c63d67921bccb5bcdb4b4bc48a7cbb9efd2090343555805edeb0fc94"
+    },
+    {
+     "from": "2001-08-08",
+     "units": 198,
+     "source_url": "https://sapl.boavista.rr.leg.br/ta/641/text/vigencia/648,2001-08-08,2002-03-12:iQFbVOVdsYZxkfCR-5t6Uk-DDiY/",
+     "sha256": "3fc6d972d0dc87a0e77c5c4d7728b41d4fcd04ae19c191f3d099f2b3d389025d"
+    },
+    {
+     "from": "2002-03-13",
+     "units": 198,
+     "source_url": "https://sapl.boavista.rr.leg.br/ta/641/text/vigencia/649,2002-03-13,2002-06-17:Fkdgjoj1f4T3EBEp-y8kSUSofUs/",
+     "sha256": "535cba9d65062f1181c39b7f38cb5e6d4e4b839653331063aa7a4a984a313b67"
+    },
+    {
+     "from": "2002-06-18",
+     "units": 198,
+     "source_url": "https://sapl.boavista.rr.leg.br/ta/641/text/vigencia/650,2002-06-18,2004-03-09:VIIibIW7lqVD77qbFPxsJXRSu1M/",
+     "sha256": "1bd086e0a3bc3ce3bdabb7a830115539b8bb8b6ef460b5adfd97480f09961848"
+    },
+    {
+     "from": "2004-03-10",
+     "units": 198,
+     "source_url": "https://sapl.boavista.rr.leg.br/ta/641/text/vigencia/651,2004-03-10,2004-12-13:5O6sc3rZRe8LjiFI_GJR19844-I/",
+     "sha256": "cda674302c4f8cecd1d5f4af446e1f4d617fb5c49681cf407a9d55d839562a9b"
+    },
+    {
+     "from": "2004-12-14",
+     "units": 198,
+     "source_url": "https://sapl.boavista.rr.leg.br/ta/641/text/vigencia/652,2004-12-14,2006-03-07:yeJwH-fWcLuUcRJUxsgRFFJKLk8/",
+     "sha256": "e2249178a1d26730fcbeedb5bc4dc9cc3de109d5d10623b7adb2038a74c04970"
+    },
+    {
+     "from": "2004-12-14",
+     "units": 198,
+     "source_url": "https://sapl.boavista.rr.leg.br/ta/641/text/vigencia/653,2004-12-14,2006-03-07:YeK5AId41yts8A725zprk-uaSgw/",
+     "sha256": "4003070734c40cee550d7655913a7a4285de71f2dd5a1bc125ea7443d83a307e"
+    },
+    {
+     "from": "2006-03-08",
+     "units": 198,
+     "source_url": "https://sapl.boavista.rr.leg.br/ta/641/text/vigencia/654,2006-03-08,2007-12-17:f2qcOG_yzhC3BwitXLb2CTi1C70/",
+     "sha256": "4947b1ed6761ac548cefcce5826200912d7a8a647f8c7677b8d029e4c2fa75f2"
+    },
+    {
+     "from": "2007-12-18",
+     "units": 198,
+     "source_url": "https://sapl.boavista.rr.leg.br/ta/641/text/vigencia/655,2007-12-18,2009-12-01:AJSJ4VBAcX9IvCPIOKvam0hOEXA/",
+     "sha256": "07e105455cc66bbcc3860bfa45c8138e48be6cfdaf5cc17417417cf92941da86"
+    },
+    {
+     "from": "2009-12-02",
+     "units": 217,
+     "source_url": "https://sapl.boavista.rr.leg.br/ta/641/text/vigencia/0,2009-12-02,2010-06-24:nfCt16KpCSzrdZy8jK0R4vzdbwY/",
+     "sha256": "04a69ba6f35b0ca1e10cf407c8893030e949b5e20e72f9f715b1674665a4dda2"
+    },
+    {
+     "from": "2009-12-02",
+     "units": 217,
+     "source_url": "https://sapl.boavista.rr.leg.br/ta/641/text/vigencia/656,2009-12-02,2010-06-24:a4SUdHR0dtf2wtQSxPqY_RqtT10/",
+     "sha256": "ed895380c9822b20ebe6fb939d9d2450b10c32f83091ed27080ee511f07470dc"
+    },
+    {
+     "from": "2010-06-25",
+     "units": 217,
+     "source_url": "https://sapl.boavista.rr.leg.br/ta/641/text/vigencia/657,2010-06-25,2010-11-28:cqz9BlK3Cfb-RpL7YkWHZ4LypWM/",
+     "sha256": "a77fd9477575b85cab98ed714dec1f93782862694abf6af6d4c8d34ea8a61ef0"
+    },
+    {
+     "from": "2010-11-29",
+     "units": 219,
+     "source_url": "https://sapl.boavista.rr.leg.br/ta/641/text/vigencia/658,2010-11-29,2011-07-04:emvzoLqIUV1jiPF-I3L1f1dCcF4/",
+     "sha256": "1ebdae1db122b1999a156c3805587b050de13ec9318ce34b9cf7dd82b9f79f6d"
+    },
+    {
+     "from": "2011-07-05",
+     "units": 219,
+     "source_url": "https://sapl.boavista.rr.leg.br/ta/641/text/vigencia/659,2011-07-05,2018-08-08:NCwoIoBVeTzNKgI0y7-ZCLmu4J8/",
+     "sha256": "160808f4ed8697e9807663fe1c31edf9b7b597b9019680c19f7c5ac8853b2dab"
+    },
+    {
+     "from": "2018-08-09",
+     "units": 219,
+     "source_url": "https://sapl.boavista.rr.leg.br/ta/641/text/vigencia/660,2018-08-09,2019-10-21:DUkqVtwfbg8MpreFfQKf6i7yFuo/",
+     "sha256": "b9f6e285a046d2c590189f7401c67cc1120dfd28226e9ac1cc4418a7ad8b4817"
+    },
+    {
+     "from": "2019-10-22",
+     "units": 219,
+     "source_url": "https://sapl.boavista.rr.leg.br/ta/641/text/vigencia/661,2019-10-22,2019-11-18:rI1h0T_VwdsD87L_q_kEjRBOmSI/",
+     "sha256": "ca0646183c55d7ec23c2430c554a97dbc0be5530e5f2b43d6989a331c52da422"
+    },
+    {
+     "from": "2019-11-19",
+     "units": 219,
+     "source_url": "https://sapl.boavista.rr.leg.br/ta/641/text/vigencia/662,2019-11-19,2021-10-19:krqxIj4b0wVSGZY9Ikrzo99WIZs/",
+     "sha256": "6849553aecaa4a21bd6fc3aee17f061f5ae6b4ec3406f0f02355fb014379b14c"
+    },
+    {
+     "from": "2021-10-20",
+     "units": 220,
+     "source_url": "https://sapl.boavista.rr.leg.br/ta/641/text/vigencia/663,2021-10-20,2023-07-31:V6qyDkSXjn8e-JVDNk7RVCBaKCk/",
+     "sha256": "3cc77f3d3bb5713ec2eff6614f2676b15e5774ff0f04aa598e9326fce0628be6"
+    },
+    {
+     "from": "2023-08-01",
+     "units": 220,
+     "source_url": "https://sapl.boavista.rr.leg.br/ta/641/text/vigencia/664,2023-08-01,2024-03-19:c0cNrqmzcDiEQtcS1Yxp5ZNbGaU/",
+     "sha256": "5fb259ef76ee48319faf3246b4a745b328192e2cc29716cd793817e1228e9735"
+    },
+    {
+     "from": "2024-03-20",
+     "units": 220,
+     "source_url": "https://sapl.boavista.rr.leg.br/ta/641/text/vigencia/665,2024-03-20,2025-07-14:UqII5lwWS5f45dyl_qRluzx01XE/",
+     "sha256": "96d7940c50937e1d378e0cbd73a9b756a92ece44f485cdeb466a131c46631c6f"
+    },
+    {
+     "from": "2025-07-15",
+     "units": 221,
+     "source_url": "https://sapl.boavista.rr.leg.br/norma/5353",
+     "sha256": "ca982b5cc68a86a017a42ff036f5603d3f6fd9c8dae286563c20c7fec807d95a"
+    }
+   ]
+  }
+ ]
+}

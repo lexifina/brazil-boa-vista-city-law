@@ -1,0 +1,9 @@
+{
+  "path": "br-rr-boa-vista",
+  "code": "BR-RR-BOA-VISTA",
+  "name": "Boa Vista (city)",
+  "level": "municipality",
+  "parent": "br-rr",
+  "repo": "https://github.com/lexifina/brazil-boa-vista-city-law",
+  "build": "built: the Lei Orgânica of Boa Vista with its amendments, from the Câmara Municipal's SAPL"
+}
