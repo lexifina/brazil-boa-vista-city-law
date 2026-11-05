@@ -11,6 +11,12 @@
     "lei-2026-02880"
    ],
    "sha256": "21fef00ead5ce7b38be7cd677dd3df32d873ecc3b5133bafc9bd5aa2faa829ba"
+  },
+  "30-leis-002.json": {
+   "acts": [
+    "lei-2026-02788"
+   ],
+   "sha256": "eb6bf3582682451cb703313406f4b6419e2412d6081f084e7ead6bdfab8db79c"
   }
  },
  "schema": 1

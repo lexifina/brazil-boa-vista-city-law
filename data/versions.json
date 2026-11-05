@@ -184,6 +184,20 @@
      "sha256": "303799ad1d1741c890962f89b8f42f8c88f5881d36a34d671e1e1b3103bd12c4"
     }
    ]
+  },
+  {
+   "slug": "lei-2026-02788",
+   "short": "Lei 2788/2026",
+   "title": "Lei nº 2.788, de 30 de janeiro de 2026",
+   "url": "https://sapl.boavista.rr.leg.br/norma/5438",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 12,
+     "source_url": "https://sapl.boavista.rr.leg.br/media/sapl/public/normajuridica/2026/5438/lei_2.788-2025.pdf",
+     "sha256": "3cfb3be3f80fcddd2c7f32c06062531d9612cba83b669a2ceb6dc837a02c0c9b"
+    }
+   ]
   }
  ]
 }
