@@ -170,6 +170,20 @@
      "sha256": "ca982b5cc68a86a017a42ff036f5603d3f6fd9c8dae286563c20c7fec807d95a"
     }
    ]
+  },
+  {
+   "slug": "lei-2026-02880",
+   "short": "Lei 2880/2026",
+   "title": "Lei nº 2.880, de 19 de agosto de 2026",
+   "url": "https://sapl.boavista.rr.leg.br/norma/5880",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 4,
+     "source_url": "https://sapl.boavista.rr.leg.br/media/sapl/public/normajuridica/2026/5880/lei-2880-2026.pdf",
+     "sha256": "303799ad1d1741c890962f89b8f42f8c88f5881d36a34d671e1e1b3103bd12c4"
+    }
+   ]
   }
  ]
 }
