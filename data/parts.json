@@ -24,6 +24,12 @@
     "lei-2024-02522"
    ],
    "sha256": "0f74240275730ab8f4609fe8e8edcdc0c77b033046ba44942786ce230ae432df"
+  },
+  "30-leis-009.json": {
+   "acts": [
+    "lei-2023-02492"
+   ],
+   "sha256": "fbc26b1a5b235189e524db8dfa4ebd299315231fad230e730753f7b1d22e5e13"
   }
  },
  "schema": 1

@@ -226,6 +226,20 @@
      "sha256": "a4d01fb409541fbdc775e9a8d377f3cc63a868d22a2f893c362b18302181dfe7"
     }
    ]
+  },
+  {
+   "slug": "lei-2023-02492",
+   "short": "Lei 2492/2023",
+   "title": "Lei nº 2.492, de 23 de outubro de 2023",
+   "url": "https://sapl.boavista.rr.leg.br/norma/4110",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 8,
+     "source_url": "https://sapl.boavista.rr.leg.br/media/sapl/public/normajuridica/2023/4110/lei-2492-2023.pdf",
+     "sha256": "213450a72ec9305953ccf455bb2ab1d6c483fdc91bde623e7df04e91b193b223"
+    }
+   ]
   }
  ]
 }
