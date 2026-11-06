@@ -268,6 +268,20 @@
      "sha256": "2513caa5008c344f802215c252ed15335f02f8bf3e81b5b27938301704854777"
     }
    ]
+  },
+  {
+   "slug": "lei-2022-02245",
+   "short": "Lei 2245/2022",
+   "title": "Lei nº 2.245, de 11 de março de 2022",
+   "url": "https://sapl.boavista.rr.leg.br/norma/3561",
+   "versions": [
+    {
+     "from": "2022-03-15",
+     "units": 4,
+     "source_url": "https://sapl.boavista.rr.leg.br/media/sapl/public/normajuridica/2022/3561/lei_2.245-2022-leg-_ver.leonel_oliveira-dom_5583.pdf",
+     "sha256": "c93521658308f59631b96c73c8e5b5437cb2e073d6294e25dc6e912503ecb521"
+    }
+   ]
   }
  ]
 }

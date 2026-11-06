@@ -42,6 +42,12 @@
     "lei-2022-02286"
    ],
    "sha256": "f2115aa1135ba1d9793dc622e8767defa2c9f7aedd22805144d30cb9e6ced678"
+  },
+  "30-leis-014.json": {
+   "acts": [
+    "lei-2022-02245"
+   ],
+   "sha256": "1ab6afd7b656b372b1bf429b29caee12fd9332e2ef79957670505fa1a9652db5"
   }
  },
  "schema": 1
