@@ -296,6 +296,20 @@
      "sha256": "51475621eda561ba368b2a8351d3cef29769b943850767d795674e853c00a6ac"
     }
    ]
+  },
+  {
+   "slug": "lei-2021-02145",
+   "short": "Lei 2145/2021",
+   "title": "Lei nº 2.145, de 17 de maio de 2021",
+   "url": "https://sapl.boavista.rr.leg.br/norma/3436",
+   "versions": [
+    {
+     "from": "2021-05-24",
+     "units": 6,
+     "source_url": "https://sapl.boavista.rr.leg.br/media/sapl/public/normajuridica/2021/3436/lei_2.145-2021-leg-ver.genildon_costa-_dom_5385.pdf",
+     "sha256": "0b5c6a712bf27cee9bb711eda367608e0d8b07ae2f718ee299bfe5f868001080"
+    }
+   ]
   }
  ]
 }
