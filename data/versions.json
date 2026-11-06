@@ -310,6 +310,34 @@
      "sha256": "0b5c6a712bf27cee9bb711eda367608e0d8b07ae2f718ee299bfe5f868001080"
     }
    ]
+  },
+  {
+   "slug": "lei-2020-02120",
+   "short": "Lei 2120/2020",
+   "title": "Lei nº 2.120, de 28 de dezembro de 2020",
+   "url": "https://sapl.boavista.rr.leg.br/norma/3397",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 6,
+     "source_url": "https://sapl.boavista.rr.leg.br/media/sapl/public/normajuridica/2020/3397/lei_2.120-2020-leg-ver.mirian_reis_dom_no_5284.pdf",
+     "sha256": "83ef54a437af950f237e90d93d080acb0d02fbe5f08a3a56236cf3d153c4ae53"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02079",
+   "short": "Lei 2079/2020",
+   "title": "Lei nº 2.079, de 22 de janeiro de 2020",
+   "url": "https://sapl.boavista.rr.leg.br/norma/3318",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 34,
+     "source_url": "https://sapl.boavista.rr.leg.br/media/sapl/public/normajuridica/2020/3318/lei_2.079-2020-leg-ver.manoel_neves-_dom_no_5058.pdf",
+     "sha256": "b02526b5adf51450a006529d82b9fa258ebeb9c73312bb21db6826290b380f72"
+    }
+   ]
   }
  ]
 }

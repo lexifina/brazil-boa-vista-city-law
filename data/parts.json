@@ -60,6 +60,13 @@
     "lei-2021-02145"
    ],
    "sha256": "5dbe4dea670105eae48d6d23d14a7514f2652fc94fc7c392e5fc4f49df0c4d15"
+  },
+  "30-leis-017.json": {
+   "acts": [
+    "lei-2020-02079",
+    "lei-2020-02120"
+   ],
+   "sha256": "747294939008e94d6e507757ac536deb76e894f6e1f167e8bddd9d1d7dc87e12"
   }
  },
  "schema": 1
