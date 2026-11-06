@@ -254,6 +254,20 @@
      "sha256": "5f2182a67d90faa9f21e964f9af647f5c276abbbcc26db92698aa17393120fa5"
     }
    ]
+  },
+  {
+   "slug": "lei-2022-02286",
+   "short": "Lei 2286/2022",
+   "title": "Lei nº 2.286, de 25 de maio de 2022",
+   "url": "https://sapl.boavista.rr.leg.br/norma/3680",
+   "versions": [
+    {
+     "from": "2022-06-15",
+     "units": 10,
+     "source_url": "https://sapl.boavista.rr.leg.br/media/sapl/public/normajuridica/2022/3680/lei_2.286-2022_de_25_de_maio_de_2022-leg-ver._italo_otavio-_dom_5646.pdf",
+     "sha256": "2513caa5008c344f802215c252ed15335f02f8bf3e81b5b27938301704854777"
+    }
+   ]
   }
  ]
 }
