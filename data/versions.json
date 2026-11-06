@@ -198,6 +198,34 @@
      "sha256": "3cfb3be3f80fcddd2c7f32c06062531d9612cba83b669a2ceb6dc837a02c0c9b"
     }
    ]
+  },
+  {
+   "slug": "lei-2024-02522",
+   "short": "Lei 2522/2024",
+   "title": "Lei nº 2.522, de 2 de janeiro de 2024",
+   "url": "https://sapl.boavista.rr.leg.br/norma/4177",
+   "versions": [
+    {
+     "from": "2024-01-11",
+     "units": 8,
+     "source_url": "https://sapl.boavista.rr.leg.br/media/sapl/public/normajuridica/2024/4177/lei-2522-2023.pdf",
+     "sha256": "7b9e7379f24d972423b431fe5b2f27a9121fee90efa5e77e6ecdb4b99979cdf9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-02521",
+   "short": "Lei 2521/2024",
+   "title": "Lei nº 2.521, de 2 de janeiro de 2024",
+   "url": "https://sapl.boavista.rr.leg.br/norma/4178",
+   "versions": [
+    {
+     "from": "2024-01-11",
+     "units": 8,
+     "source_url": "https://sapl.boavista.rr.leg.br/media/sapl/public/normajuridica/2024/4178/lei-2521-2023.pdf",
+     "sha256": "a4d01fb409541fbdc775e9a8d377f3cc63a868d22a2f893c362b18302181dfe7"
+    }
+   ]
   }
  ]
 }
