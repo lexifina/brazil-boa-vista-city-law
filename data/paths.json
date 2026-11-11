@@ -1,0 +1,20 @@
+{
+"layout": "<kind>/<year>/<number>",
+"since": "2026-11-11",
+"note": "Act folders before the layout move were named by the act id (slug); paths maps each id to its folder. Ids not placed by the rule keep their folder.",
+"paths": {
+"lei-2020-02079": "lei/2020/02079",
+"lei-2020-02120": "lei/2020/02120",
+"lei-2021-02145": "lei/2021/02145",
+"lei-2021-02189": "lei/2021/02189",
+"lei-2022-02245": "lei/2022/02245",
+"lei-2022-02286": "lei/2022/02286",
+"lei-2023-02444": "lei/2023/02444",
+"lei-2023-02492": "lei/2023/02492",
+"lei-2024-02521": "lei/2024/02521",
+"lei-2024-02522": "lei/2024/02522",
+"lei-2026-02788": "lei/2026/02788",
+"lei-2026-02880": "lei/2026/02880",
+"lei-organica": "constitution/lei-organica"
+}
+}
